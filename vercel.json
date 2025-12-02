@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://bidr.live/$1",
+      "permanent": true
+    }
+  ]
+}
